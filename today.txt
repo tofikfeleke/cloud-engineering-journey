@@ -1,0 +1,6 @@
+Day 1 - GitHub setup complete
+- Installed Git
+- Connected Git to GitHub
+- Created cloud-engineering-journey repository
+- Learning networking: services and protocols
+
