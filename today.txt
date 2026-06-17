@@ -4,3 +4,8 @@ Day 1 - GitHub setup complete
 - Created cloud-engineering-journey repository
 - Learning networking: services and protocols
 
+June 17 2026 - MacBook M5 setup complete
+- Homebrew installed
+- Git and Python installed
+- GitHub connected
+- Ready to start 15 week plan
