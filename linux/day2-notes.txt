@@ -1,0 +1,7 @@
+ls->list directory contents
+by using this command we can get the list of files and subdirectories inside current working directories
+beside we can specify a directory or multiple dirctory we want to be listed
+MV-> move/rename files or directories
+by using this command we can move or rename files or dirctories we want in each case the file or dirctory no longer exist as orignal
+mkdir-> crate directoris 
+by using this command we can creat dirctories inside current  working diretory  
